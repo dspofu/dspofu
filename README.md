@@ -16,8 +16,10 @@ Por incrivel que parece minha primeira linguagem foi Python, mas logo larguei de
 Passei um tempo procurando outras... até achar JavaScript.
 JavaScript foi uma das que mais me adaptei, ela tem uma boa orientação a objetos e não precisa usar `types` oque foi crussial para que eu não me frustasse ao ponto de abandonar no incio da jornada.
 Hummm, mas como eu conheci e me identifiquei nessa area... Tudo começou em uma plataforma digital chamada `Discord` que ai desse ponto fiz alguns amigos e perdi por falta de atividade em servidores.
-Um dia em um servidor que eu ajudava de um amigo que conheci que inclusive foi no Discord eu fui apresentado ao mundo da programação por meio de um membro que tinha recem chegado e queria adicionar seu bot lá.
-Fui interagindo com ele e buscando entender se era seguro ou não, até que dexei, logo tambem fui atras de informações sobre esse grande mundinho de bots para Discord e linguagens... Posso ate afirmar que foi por meio desse sujeito que tenho contato até hoje que ele foi minha inspiração.
-Atualmente atua com 3 linguagens frequentemente, sendo elas: JavaScript, Java e C++
+Um dia em um servidor  de um amigo que eu ajudava, que inclusive conheci no Discord, eu fui apresentado ao mundo da programação por meio de um membro que tinha recem chegado e queria adicionar seu bot lá.
+Fui interagindo com ele e buscando entender se era seguro ou não, logo tambem fui atras de informações sobre esse grande mundo de bots para Discord e linguagens... Posso até afirmar que foi por meio desse sujeito que foi minha inspiração para essa vida de "problemas" 😅.
+Atualmente atuo com 3 linguagens, sendo elas: JavaScript, Java e C++
+
+#### Carinho especial pelo JavaScript ❤
 
 ## Vai ter mais ainda...
