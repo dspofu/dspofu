@@ -14,7 +14,7 @@
 > Meu contato com linguagem de programação foi bem na epoca do inicio da divulgação da Covid-19, Bem aos meus 13anos.
 Por incrivel que parece minha primeira linguagem foi Python, mas logo larguei de mão.
 Passei um tempo procurando outras... até achar JavaScript.
-JavaScript foi uma das que mais me adaptei, ela tem uma boa orientação a objetos e não não precisa usar `types` oq foi crussial para que eu não me frustasse ao ponto de abandono no incio da jornada.
+JavaScript foi uma das que mais me adaptei, ela tem uma boa orientação a objetos e não precisa usar `types` oque foi crussial para que eu não me frustasse ao ponto de abandonar no incio da jornada.
 Hummm, mas como eu conheci e me identifiquei nessa area... Tudo começou em uma plataforma digital chamada `Discord` que ai desse ponto fiz alguns amigos e perdi por falta de atividade em servidores.
 Um dia em um servidor que eu ajudava de um amigo que conheci que inclusive foi no Discord eu fui apresentado ao mundo da programação por meio de um membro que tinha recem chegado e queria adicionar seu bot lá.
 Fui interagindo com ele e buscando entender se era seguro ou não, até que dexei, logo tambem fui atras de informações sobre esse grande mundinho de bots para Discord e linguagens... Posso ate afirmar que foi por meio desse sujeito que tenho contato até hoje que ele foi minha inspiração.
