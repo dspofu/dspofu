@@ -11,7 +11,7 @@
 
 ### Particuliariedades minha
 
-> Meu contato com linguegm de programação foi bem na epoca do inicio da divulgação da Covid-19, Bem aos meus 13anos.
+> Meu contato com linguagem de programação foi bem na epoca do inicio da divulgação da Covid-19, Bem aos meus 13anos.
 Por incrivel que parece minha primeira linguagem foi Python, mas logo larguei de mão.
 Passei um tempo procurando outras... até achar JavaScript.
 JavaScript foi uma das que mais me adaptei, ela tem uma boa orientação a objetos e não não precisa usar `types` oq foi crussial para que eu não me frustasse ao ponto de abandono no incio da jornada.
