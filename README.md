@@ -4,8 +4,14 @@
 
 🎂 **My birthday: 02/01** 🎉
 
-<details open>
-  <summary><strong>Language used in my projects</strong> <a href=""><img src="https://cdn-icons-png.flaticon.com/512/484/484562.png" width="12px"></a></summary>
+### 📌 My main personal issues in creating programs
+- **Q:** `Is my logic wrong?` **R:** `Forgot the ";".`
+- **Q:** `How to center a "div"?` **R:** `Great question...`
+- **Q:** `Why did the code stop working?` **R:** `The right question would be why it worked before.`
+- **Q:** `What a horrible code, whose is it?` **R:** `It was my own code...`
+
+<details>
+  <summary><strong>Language used in my projects</strong> 👈</summary>
   <br>
 
 |Logo|Language|Extension|
@@ -24,12 +30,6 @@
 
 # 
 </details>
-
-### 📌 My main personal issues in creating programs
-- **Q:** `Is my logic wrong?` **R:** `Forgot the ";".`
-- **Q:** `How to center a "div"?` **R:** `Great question...`
-- **Q:** `Why did the code stop working?` **R:** `The right question would be why it worked before.`
-- **Q:** `What a horrible code, whose is it?` **R:** `It was my own code...`
 
 #### Lovers WebSocket, API ❤
 **Favorite languages:** `C++` and `JavaScript/TypeScript` (Maybe `Java`)
