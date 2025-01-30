@@ -23,11 +23,11 @@
 </details>
 
 ### My main personal issues in creating programs
-- Q: Is my logic wrong? R: Forgot the ";".
-- Q: How to center a "div"? R: Great question...
-- Q: Strange, why don't "lenght" and "windht" go? R: Again you got the basics wrong by swapping the "t" for the "h".
-- Q: Why did the code stop working? R: The right question would be why it worked before.
-- Q: What a horrible code, whose is it? R: It was my own code...
+- **Q:** `Is my logic wrong?` **R:** `Forgot the ";".`
+- **Q:** `How to center a "div"?` **R:** `Great question...`
+- **Q:** `Strange, why don't "lenght" and "windht" go?` **R:** `Again you got the basics wrong by swapping the "t" for the "h".`
+- **Q:** `Why did the code stop working?` **R:** `The right question would be why it worked before.`
+- **Q:** `What a horrible code, whose is it?` **R:** `It was my own code...`
 
 
 #### Lovers NodeJS ❤
