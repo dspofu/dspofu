@@ -18,14 +18,13 @@
     <img src="https://dart.dev/assets/img/logo/dart-64.png" alt="dart" width="20"> <a href="https://dart.dev/language">Dart</a>
   </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dspofu&langs_count=8&theme=dark&hide_border=true&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dspofu&theme=dark&hide_border=true&layout=donut&langs_count=8)
   
 </details>
 
 ### My main personal issues in creating programs
 - **Q:** `Is my logic wrong?` **R:** `Forgot the ";".`
 - **Q:** `How to center a "div"?` **R:** `Great question...`
-- **Q:** `Strange, why don't "lenght" and "windht" go?` **R:** `Again you got the basics wrong by swapping the "t" for the "h".`
 - **Q:** `Why did the code stop working?` **R:** `The right question would be why it worked before.`
 - **Q:** `What a horrible code, whose is it?` **R:** `It was my own code...`
 
