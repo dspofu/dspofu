@@ -29,8 +29,7 @@
 - **Q:** `Why did the code stop working?` **R:** `The right question would be why it worked before.`
 - **Q:** `What a horrible code, whose is it?` **R:** `It was my own code...`
 
-
-#### Lovers NodeJS, WebSocket, API ❤
+#### Lovers WebSocket, API ❤
 **Favorite languages:** `C++` and `JavaScript/TypeScript` (Maybe `Java`)
 
 ![Dspofu stats](https://github-readme-stats.vercel.app/api?username=dspofu&theme=dark&show_icons=true&hide_border=true)
