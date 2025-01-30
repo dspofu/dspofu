@@ -18,7 +18,7 @@
     <img src="https://dart.dev/assets/img/logo/dart-64.png" alt="dart" width="20"> <a href="https://dart.dev/language">Dart</a>
   </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dspofu&theme=dark&hide_border=true&layout=donut&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dspofu&theme=dark&hide_border=true&layout=donut&langs_count=9)
   
 </details>
 
