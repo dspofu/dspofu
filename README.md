@@ -4,7 +4,7 @@
 
 🎂 **My birthday: 02/01** 🎉
 
-<details>
+<details open>
   <summary><strong>Language used in my projects</strong> <a href=""><img src="https://cdn-icons-png.flaticon.com/512/484/484562.png" width="12px"></a></summary>
   <br>
 
@@ -21,7 +21,8 @@
   <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dspofu&theme=dracula&hide_border=true&layout=donut&langs_count=9)
-  
+
+# 
 </details>
 
 ### 📌 My main personal issues in creating programs
