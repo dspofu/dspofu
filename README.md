@@ -1,4 +1,4 @@
-# Hi!
+# Oh, Hi!
 
 **I'm from Brazil, ES**
 
@@ -18,7 +18,7 @@
     <img src="https://dart.dev/assets/img/logo/dart-64.png" alt="dart" width="20"> <a href="https://dart.dev/language">Dart</a>
   </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dspofu&theme=dark&hide_border=true&layout=donut&langs_count=9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dspofu&theme=dracula&hide_border=true&layout=donut&langs_count=9)
   
 </details>
 
@@ -31,4 +31,4 @@
 #### Lovers WebSocket, API ❤
 **Favorite languages:** `C++` and `JavaScript/TypeScript` (Maybe `Java`)
 
-![Dspofu stats](https://github-readme-stats.vercel.app/api?username=dspofu&theme=dark&show_icons=true&hide_border=true)
+![Dspofu stats](https://github-readme-stats.vercel.app/api?username=dspofu&theme=dracula&show_icons=true&hide_border=true)
