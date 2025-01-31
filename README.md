@@ -16,7 +16,7 @@
 
 |Logo|Language|Extension|
 |:---:|:---:|:---:|
-|<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="node" width="20">|<a href="https://nodejs.org">NodeJS</a>|`js`|
+|<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="node" width="20">|<a href="https://nodejs.org">JavaScript</a>|`js`|
 |<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" width="20">|<a href="https://typescriptlang.org">TypeScript</a>|`ts`|
 |<img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" alt="c++" width="20">|<a href="https://learn.microsoft.com/pt-br/cpp/build/vscpp-step-0-installation"> C++</a>|`cpp`|
 |<img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="java" width="20">|<a href="https://www.w3schools.com/java">Java</a>|`java`|
