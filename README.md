@@ -11,7 +11,7 @@
 - **Q:** `What a horrible code, whose is it?` **R:** `It was my own code...`
 
 <details>
-  <summary><strong>Language used in my projects</strong> 👈</summary>
+  <summary><h2><strong>Language used in my projects</strong> 👈</h2></summary>
   <br>
 
 |Logo|Language|Extension|
