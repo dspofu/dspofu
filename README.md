@@ -2,7 +2,7 @@
 
 📍 **I'm from Brazil, ES** 🌎
 
-🎂 **My birthday: 02/01** 🎉
+🎂 **My birthday: 01/02** 🎉
 
 ### 📌 My main personal issues in creating programs
 - **Q:** `Is my logic wrong?` **R:** `Forgot the ";".`
